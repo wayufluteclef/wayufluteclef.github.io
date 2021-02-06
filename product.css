@@ -1,0 +1,17 @@
+.jumbotron {
+    background: url("pictures/E292779F-6096-4B94-B3F5-8A9B1C29E490.jpeg");
+    -webkit-background-size: 100% 100%;
+    -moz-background-size: 100% 100%;
+    -o-background-size: 100% 100%;
+    background-size: 100% 100%;
+}
+
+.jumbotron .brandname {
+    text-shadow: 1px 1px black;
+    
+}
+
+.slogan
+{
+    text-shadow: 1px 1px #35586C;
+}
